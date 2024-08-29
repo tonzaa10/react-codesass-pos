@@ -1,0 +1,10 @@
+{
+    "editor.formatOnSave": true,
+    "editor.tabSize": 4,
+    "files.associations": {
+        "*.js": "javascriptreact",
+        "*.css": "css"
+    },
+    "editor.defaultFoldingRangeProvider": "esbenp.prettier-vscode"
+
+}
